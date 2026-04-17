@@ -1,0 +1,13 @@
+#coisas que nao devem subir para o github
+
+__pycache__/
+*.py[cod]
+*%py.class
+
+.vscode/
+
+.vs/
+[Bb]in/
+[Oo]bj/
+*.sln
+*.csproj
